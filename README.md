@@ -1,0 +1,1 @@
+Same concept as https://github.com/emilesilvis/quad_tiling, but with triangles.
